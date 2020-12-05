@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\bin\Debug\TP10.exe.config
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\bin\Debug\TP10.exe
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\bin\Debug\TP10.pdb
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\obj\Debug\TP10.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\obj\Debug\TP10.Form1.resources
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\obj\Debug\TP10.Properties.Resources.resources
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\obj\Debug\TP10.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\obj\Debug\TP10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\obj\Debug\TP10.exe
+C:\Users\Usuario\Desktop\C#\TP 10\TP10\TP10\obj\Debug\TP10.pdb
